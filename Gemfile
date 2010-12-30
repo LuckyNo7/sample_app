@@ -30,4 +30,7 @@ gem 'mysql2'
    gem 'rspec'
    gem 'rspec-rails'
    gem 'webrat'
+   
+   gem 'autotest'
+   gem 'autotest-rails-pure'
  end

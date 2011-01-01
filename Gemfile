@@ -33,4 +33,6 @@ gem 'mysql2'
    
    gem 'autotest'
    gem 'autotest-rails-pure'
+   
+   gem 'annotate-models'
  end

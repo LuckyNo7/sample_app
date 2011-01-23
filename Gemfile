@@ -18,6 +18,7 @@ gem 'mysql2'
 # gem 'ruby-debug19'
 
 # Bundle the extra gems:
+gem 'gravatar_image_tag'
 # gem 'bj'
 # gem 'nokogiri'
 # gem 'sqlite3-ruby', :require => 'sqlite3'
@@ -35,4 +36,5 @@ gem 'mysql2'
    gem 'autotest-rails-pure'
    
    gem 'annotate-models'
+   gem 'factory_girl_rails'
  end
